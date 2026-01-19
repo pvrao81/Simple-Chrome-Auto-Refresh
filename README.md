@@ -33,7 +33,7 @@ From Source (Development Mode)
 **Usage**
 **Set Up Interval:**
 - Click the extension icon in the toolbar to open the popup.
-- Enter a number in seconds (e.g., 60 for 1 minute) in the input field.
+- Enter a number in Minutes & Seconds Inputs (e.g., 1 minute, 60 secs.) in the input field.
 - Click "Start" to begin refreshing the current tab at that interval.
 
 **Stop Refreshing:**
