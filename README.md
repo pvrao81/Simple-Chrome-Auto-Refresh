@@ -1,4 +1,4 @@
-**#Auto Page Refresher Chrome Extension**
+**Simple Auto Page Refresher  Extension for Chrome**
 
 **Overview**
 The Auto Page Refresher is a simple yet powerful Chrome extension designed to automatically refresh the current web page at user-defined time intervals. This is particularly useful for monitoring live updates on websites like news feeds, stock tickers, social media, or any dynamic content that requires periodic reloading without manual intervention. The extension supports custom intervals in seconds, start/stop controls via a popup interface, and keyboard shortcuts for quick access and control.
